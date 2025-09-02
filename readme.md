@@ -1,6 +1,6 @@
 # 🧠 AI Role Validator – XML to PDF Job Role Comparison Tool
 
-[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-blue?logo=streamlit)](https://thankabharathi-role-validator-xml-to-pdf-job-role-comparison.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-blue?logo=streamlit)](https://role-validator-xml-to-pdf-job-role-comparison-tool-by-kavinesh.streamlit.app/)
 [![Python](https://img.shields.io/badge/Built%20with-Python%203.9-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -10,7 +10,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [Click to Open App](https://thankabharathi-role-validator-xml-to-pdf-job-role-comparison.streamlit.app/)
+🔗 [Click to Open App](https://role-validator-xml-to-pdf-job-role-comparison-tool-by-kavinesh.streamlit.app/)
 
 ---
 
@@ -72,5 +72,5 @@ With the power of **Google Gemini**, **RAG (via Pinecone)**, and **fuzzy string 
 ### 🔹 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ThankaBharathi/ThankaBharathi-Role-Validator-XML-to-PDF-Job-Role-Comparison-Tool.git
-cd ThankaBharathi-Role-Validator-XML-to-PDF-Job-Role-Comparison-Tool
+git clone https://github.com/kavineshrs/Role-Validator-XML-to-PDF-Job-Role-Comparison-Tool.git
+cd Role-Validator-XML-to-PDF-Job-Role-Comparison-Tool
